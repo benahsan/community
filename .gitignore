@@ -170,3 +170,4 @@ sftp-config.json
 *.un~
 Session.vim
 .netrwhist
+.DS_Store
